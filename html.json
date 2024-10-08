@@ -1,0 +1,21 @@
+{
+	"html5-boilerplate": {
+		"prefix": "html5-boilerplate",
+		"body": [
+			"<!DOCTYPE html>",
+			"<html lang=\"fi\">",
+			"\t<head>",
+			"\t\t<meta charset=\"UTF-8\">",
+			"\t\t<title>$1</title>",
+			"\t\t<style>",
+			"\t\t\t$2",
+			"\t\t</style>",
+			"\t</head>",
+			"\t<body>",
+			"\t\t$3",
+			"\t</body>",
+			"</html>"
+		],
+		"description": "A basic HTML5 boilerplate code with Finnish language setting."
+	}
+}
